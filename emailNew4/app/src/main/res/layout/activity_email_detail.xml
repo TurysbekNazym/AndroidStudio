@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.emailnew4.EmailDetailActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/titleId"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="TextView"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/senderId"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/subject"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="TextView"
+        android:textAlignment="textStart" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="111dp"
+        android:layout_height="wrap_content"
+        android:text="back"
+        android:textAlignment="center" />
+</LinearLayout>

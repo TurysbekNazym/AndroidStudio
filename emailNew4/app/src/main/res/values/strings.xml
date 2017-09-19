@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">emailNew4</string>
+
+    <string-array name="names">
+        <item>Date</item>
+        <item>Title</item>
+    </string-array>
+</resources>
