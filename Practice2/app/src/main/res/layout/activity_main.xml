@@ -40,7 +40,7 @@
                     android:layout_height="120dp"
 
                     android:layout_weight="0.82"
-                    android:text="Big boss!!!!!"
+                    android:text="@string/user_name"
                     android:textAlignment="center"
                     android:textColor="@android:color/background_light"
                     android:textSize="24sp"
@@ -70,7 +70,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="54dp"
                     android:layout_marginTop="10dp"
-                    android:text="Available"
+                    android:text="@string/status"
                     android:textAlignment="textStart"
                     android:textColor="@android:color/holo_green_light"
                     android:textSize="24sp"
@@ -107,7 +107,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
                 android:layout_marginLeft="71dp"
-                android:text="Skype credit"
+                android:text="@string/credit"
                 android:textColor="@android:color/darker_gray"
                 android:textSize="18sp" />
 
@@ -138,7 +138,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
                 android:layout_marginLeft="71dp"
-                android:text="Skype number"
+                android:text="@string/number"
                 android:textColor="@android:color/darker_gray"
                 android:textSize="18sp" />
 
@@ -172,7 +172,7 @@
                 android:layout_height="30dp"
                 android:layout_marginLeft="71dp"
                 android:layout_weight="0.21"
-                android:text="Call forwarding"
+                android:text="@string/call"
                 android:textColor="@android:color/darker_gray"
                 android:textSize="18sp" />
 
@@ -195,7 +195,7 @@
                     android:layout_height="43dp"
                     android:layout_marginTop="10dp"
                     android:layout_weight="0.35"
-                    android:text="Inactive"
+                    android:text="@string/how"
                     android:textColor="@android:color/holo_blue_light"
                     android:textSize="24sp" />
             </LinearLayout>

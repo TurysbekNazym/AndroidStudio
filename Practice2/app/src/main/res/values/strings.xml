@@ -4,4 +4,11 @@
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_2">Activity2</string>
     <string name="title_activity_3">Activity3</string>
+    <string name= "user_name" > Big Boss</string>
+    <string name= "status" >Available</string>
+    <string name= "action" > View account</string>
+    <string name= "credit" >Skype credit</string>
+    <string name= "number" > Skype number</string>
+    <string name= "call" >Call forwarding</string>
+    <string name= "how" > Inactive</string>
 </resources>

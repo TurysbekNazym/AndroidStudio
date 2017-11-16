@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">"Практика "</string>
+    <string name="action_settings">"Настройки"</string>
+    <string name="title_activity_main2">"MainActivity"</string>
+    <string name="title_activity_2">"Мероприятия"</string>
+    <string name="title_activity_3">"Мероприятия"</string>
+    <string name="user_name">" Большой босс"</string>
+    <string name="status">"доступный"</string>
+    <string name="action">" Посмотреть аккаунт"</string>
+    <string name="credit">"Кредит Skype"</string>
+    <string name="number">" Номер Skype"</string>
+    <string name="call">"Переадресация вызова"</string>
+    <string name="how">" Неактивно"</string>
+</resources>
