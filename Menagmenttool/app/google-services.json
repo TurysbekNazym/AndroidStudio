@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225986988245",
+    "firebase_url": "https://menagmenttool.firebaseio.com",
+    "project_id": "menagmenttool",
+    "storage_bucket": "menagmenttool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225986988245:android:621ac7b6cde031f9",
+        "android_client_info": {
+          "package_name": "com.example.admin.menagmenttool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225986988245-a5rbibkhn8u8l2legjujnmvmlgfle5ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.menagmenttool",
+            "certificate_hash": "43183b3490e2163c67b66cf61c483bd8445c9f3d"
+          }
+        },
+        {
+          "client_id": "225986988245-ugkocmr94prlmbjjkdhqulhqcn0798rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCskRd8pw9Bi9OcNt3YcPS-A0LDDJiqfYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225986988245-ugkocmr94prlmbjjkdhqulhqcn0798rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

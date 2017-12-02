@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_tab"></string>
+    <string name="one"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2"></string>
+    <string name="action_erase">Erase</string>
+    <string name="action_delete">delate</string>
+    <string name="action_undo">undo</string>
+    <string name="action_brush">bruch</string>
+    <string name="action_color">colors</string>
+    <string name="action_save">save</string>
+    <string name="delete_drawing">delete</string>
+    <string name="new_drawing_warning">waring</string>
+    <string name="money">How much money you spend today?</string>
+    <string name="dayphoto">Day photo</string>
+
+</resources>
